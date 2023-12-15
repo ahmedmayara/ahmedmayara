@@ -1,6 +1,4 @@
-<img align="left" width="" src="./public/images/cover.png">
-
-<hr>
+[![Header](https://github.com/ahmedmayara/ahmedmayara/blob/main/public/images/cover.png?raw=true "Header")](https://github.com/ahmedmayara)
 
 # <p align="center">👋 Hi, I’m Ahmed Mayara</p>
 
@@ -15,6 +13,7 @@ My name is <b> Ahmed Mayara </b> and I’m a junior software developer. My main 
   <img src="https://img.shields.io/badge/-TypeScript-000?style=flat&logo=typescript">
   <img src="https://img.shields.io/badge/-React-000?style=flat&logo=react">
   <img src="https://img.shields.io/badge/-Next.js-000?style=flat&logo=next.js">
+  <img src="https://img.shields.io/badge/-Tailwind%20CSS-000?style=flat&logo=tailwind%20css">
   <img src="https://img.shields.io/badge/-Node.js-000?style=flat&logo=node.js">
   <img src="https://img.shields.io/badge/-MongoDB-000?style=flat&logo=mongodb">
   <img src="https://img.shields.io/badge/-MySQL-000?style=flat&logo=mysql">
