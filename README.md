@@ -32,7 +32,7 @@ My name is <b> Ahmed Mayara </b> and I’m a junior software developer. My main 
     <a href="mailto:ahmedmayara789@gmail.com">
         <img src="https://img.shields.io/badge/-Gmail-000?style=flat&logo=gmail">
     </a>
-    <a href="https://www.linkedin.com/in/ahmed-mayara/">
+    <a href="https://www.linkedin.com/in/ahmed-mayara-1393882a0/">
         <img src="https://img.shields.io/badge/-LinkedIn-000?style=flat&logo=linkedin">
     </a>
     <a href="https://x.com/ahmeedmayara">
