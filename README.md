@@ -1,6 +1,6 @@
 <div align="left">
-  <h1 style="font-family: 'Geist Mono', monospace;">Ahmed Mayara</h1>
-  <p style="font-family: 'Geist Mono', monospace;">Software Developer | Crafting High-Quality, Scalable Solutions</p>
+  <h1>Ahmed Mayara</h1>
+  <p>Software Engineer | Crafting High-Quality, Scalable Solutions</p>
 </div>
 
 <div align="left">
@@ -14,16 +14,18 @@
   <img src="https://img.shields.io/badge/-MongoDB-000?style=flat&logo=mongodb" alt="MongoDB">
   <img src="https://img.shields.io/badge/-MySQL-000?style=flat&logo=mysql" alt="MySQL">
   <img src="https://img.shields.io/badge/-Prisma-000?style=flat&logo=prisma" alt="Prisma">
+  <img src="https://img.shields.io/badge/-Drizzle-000?style=flat&logo=drizzle" alt="Drizzle">
+  <img src="https://img.shields.io/badge/-Docker-000?style=flat&logo=docker" alt="Docker">
   <img src="https://img.shields.io/badge/-Git-000?style=flat&logo=git" alt="Git">
 </div>
 
 <br>
 
-<p style="font-family: 'Geist Mono', monospace;">
-  Passionate about developing robust and efficient software solutions that exceed client expectations. Focused on clean code, collaborative development, and continuous learning.
+<p>
+  Passionate about developing robust and efficient software solutions that exceed client expectations.
 </p>
 
-<div align="left" style="font-family: 'Geist Mono', monospace;">
+<div align="left">
   <a href="https://www.linkedin.com/in/ahmed-mayara-1393882a0" style="text-decoration: none; margin-right: 10px;">LinkedIn</a> |
   <a href="mailto:ahmedmayara789@gmail.com" style="text-decoration: none; margin-left: 10px;">Email</a>
 </div>
