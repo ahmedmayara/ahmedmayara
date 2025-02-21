@@ -21,10 +21,6 @@
 
 <br>
 
-<p>
-  Passionate about developing robust and efficient software solutions that exceed client expectations.
-</p>
-
 <div align="left">
   <a href="https://www.linkedin.com/in/ahmed-mayara-1393882a0" style="text-decoration: none; margin-right: 10px;">LinkedIn</a> |
   <a href="mailto:ahmedmayara789@gmail.com" style="text-decoration: none; margin-left: 10px;">Email</a>
